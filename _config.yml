@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
+title                    : "Mengyuan Wang"
 description              : "Undergraduate Student in Computer Science at Yonsei University"
 repository               : "wangmengyuan.github.io"
 google_scholar_stats_use_cdn : true
