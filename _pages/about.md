@@ -38,7 +38,7 @@ Led the integration with Google Cloud services to ensure efficient retrieval of 
   - Optimized the API for scalability and performance, implementing best practices in API design and cloud resource management, which enabled the platform to handle high volumes of user data without impacting matching speed or reliability.
   - Collaborated with the algorithm development team to apply the retrieved image embeddings to the user recommendation engine, resulting in a 10% increase in match accuracy and improving the overall user experience on the platform.
   
-- *2024.01 - 2024.06*, [Database Lab](https://database.yonsei.ac.kr/), Yonsei University*
+- *2024.01 - 2024.06, [Database Lab](https://database.yonsei.ac.kr/), Yonsei University*
 
   - Conducted in-depth research and hands-on implementation of big data preprocessing and post-processing techniques
   - Applied data partitioning and sharding methods to optimize big data processing workflows
