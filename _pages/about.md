@@ -25,8 +25,7 @@ As I continue my studies, I am eager to expand my knowledge in emerging fields o
 Please feel free to reach out if you'd like to connect or discuss potential opportunities. I'm always open to new challenges and excited to contribute to innovative projects in the field.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Actively looking for full-time job opportunities. Let's connect!
 
 # 📖 Educations
 - 2021.03 - Present, BS in Computer Science, Yonsei University, Seoul, Korea
