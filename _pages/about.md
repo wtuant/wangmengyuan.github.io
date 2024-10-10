@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-#Welcome!
+# Welcome! 
 
 I am currently an undergraduate student at Yonsei University, South Korea, pursuing a degree in Computer Science. My academic focus is centered around software engineering and research, with a strong interest in understanding the complexities of technology and its practical applications.
 
