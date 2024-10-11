@@ -28,7 +28,7 @@ Please feel free to reach out if you'd like to connect or discuss potential oppo
 - *Actively looking for full-time job opportunities. Let's connect!*
 
 # 📖 Educations
-- **2021.03 - Present**, BS in Computer Science, Yonsei University, Seoul, South Korea
+- **2021.03 - 2025.03**, BS in Computer Science, Yonsei University, Seoul, South Korea
 
 # 💻 Internships
 - **[Have You Met, Inc.](https://haveyoumet.co/), NY, USA**  
