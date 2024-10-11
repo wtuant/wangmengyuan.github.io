@@ -51,3 +51,6 @@ Please feel free to reach out if you'd like to connect or discuss potential oppo
   - Applied data partitioning and sharding methods to optimize big data processing workflows
   - Performed database querying and tuning using Python (DataFrame) and MariaDB
   - Developed Web UI for big data visualization and presentation
+
+# 🌍 Language
+- Native Chinese, Fluent English and Korean
