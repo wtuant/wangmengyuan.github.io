@@ -28,21 +28,25 @@ Please feel free to reach out if you'd like to connect or discuss potential oppo
 - *Actively looking for full-time job opportunities. Let's connect!*
 
 # 📖 Educations
-- 2021.03 - Present, BS in Computer Science, Yonsei University, Seoul, Korea
+- **2021.03 - Present**, BS in Computer Science, Yonsei University, Seoul, South Korea
 
 # 💻 Internships
 - **[Have You Met, Inc.](https://haveyoumet.co/), NY, USA**  
   *Software Engineer Intern*  
-  📅 2023.06 - 2023.09  
-  - Have You Met is a dating social app that focuses on providing users with more accurate and meaningful matches by leveraging AI and image processing technology. The primary goal during the internship was to enhance the accuracy of user matching recommendations by improving the processing of profile images.
+  📅 2023.06 - 2023.09
+  
+  *Have You Met is a dating social app that focuses on providing users with more accurate and meaningful matches by leveraging AI and image processing technology. The primary goal during the internship was to enhance the accuracy of user matching recommendations by improving the processing of profile images.*
+
   - Designed and implemented an API to process user profile images, integrating Google Cloud for secure authentication and utilizing Google AI APIs to generate image embeddings, which were specifically used to improve the precision of user recommendations.
   - Led the integration with Google Cloud services to ensure efficient retrieval of image embeddings, significantly contributing to refining the accuracy of the matching algorithm and enhancing user satisfaction.
   - Optimized the API for scalability and performance, implementing best practices in API design and cloud resource management to handle high volumes of user data without impacting matching speed or reliability.
-  - Collaborated with the algorithm development team to apply the retrieved image embeddings to the user recommendation engine, resulting in a 10% increase in match accuracy and improving overall user experience.
+  - Collaborated with the algorithm development team to apply the retrieved image embeddings to the user recommendation engine, resulting in a 10% increase in match accuracy and improving the overall user experience.
+
   
 - **[Database Lab](https://database.yonsei.ac.kr/), Yonsei University**  
   *Research Assistant*  
-  📅 2024.01 - 2024.06  
+  📅 2024.01 - 2024.06
+  
   - Conducted in-depth research and hands-on implementation of big data preprocessing and post-processing techniques
   - Applied data partitioning and sharding methods to optimize big data processing workflows
   - Performed database querying and tuning using Python (DataFrame) and MariaDB
