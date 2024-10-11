@@ -27,7 +27,7 @@ Please feel free to reach out if you'd like to connect or discuss potential oppo
 # 🔥 News
 - *Actively looking for full-time job opportunities. Let's connect!*
 
-# 📖 Educations
+# 📖 Education
 - **2021.03 - 2025.03**, BS in Computer Science, Yonsei University, Seoul, South Korea
 
 # 💻 Internships
@@ -35,22 +35,22 @@ Please feel free to reach out if you'd like to connect or discuss potential oppo
   *Software Engineer Intern*  
   📅 2023.06 - 2023.09
   
-  *Have You Met is a dating social app that focuses on providing users with more accurate and meaningful matches by leveraging AI and image processing technology. The primary goal during the internship was to enhance the accuracy of user matching recommendations by improving the processing of profile images.*
+  *Have You Met is a dating social app that provides users with meaningful matches by leveraging AI and image processing technology. During my internship, I worked on enhancing the accuracy of user matching recommendations by improving profile image processing.*
 
-  - Designed and implemented an API to process user profile images, integrating Google Cloud for secure authentication and utilizing Google AI APIs to generate image embeddings, which were specifically used to improve the precision of user recommendations.
-  - Led the integration with Google Cloud services to ensure efficient retrieval of image embeddings, significantly contributing to refining the accuracy of the matching algorithm and enhancing user satisfaction.
-  - Optimized the API for scalability and performance, implementing best practices in API design and cloud resource management to handle high volumes of user data without impacting matching speed or reliability.
-  - Collaborated with the algorithm development team to apply the retrieved image embeddings to the user recommendation engine, resulting in a 10% increase in match accuracy and improving the overall user experience.
+  - Designed and implemented an API to process user profile images, integrating Google Cloud for secure authentication and utilizing Google AI APIs to generate image embeddings.
+  - Integrated Google Cloud services for efficient retrieval of image embeddings, refining the accuracy of the matching algorithm and enhancing user satisfaction.
+  - Optimized the API for scalability and performance, following best practices in API design and cloud resource management.
+  - Collaborated with the algorithm development team to apply image embeddings to the user recommendation engine, resulting in a 10% increase in match accuracy.
 
   
 - **[Database Lab](https://database.yonsei.ac.kr/), Yonsei University**  
   *Research Assistant*  
   📅 2024.01 - 2024.06
   
-  - Conducted in-depth research and hands-on implementation of big data preprocessing and post-processing techniques
-  - Applied data partitioning and sharding methods to optimize big data processing workflows
-  - Performed database querying and tuning using Python (DataFrame) and MariaDB
-  - Developed Web UI for big data visualization and presentation
+  - Conducted in-depth research and implemented big data preprocessing and post-processing techniques.
+  - Applied data partitioning and sharding methods to optimize big data workflows.
+  - Performed database querying and tuning using Python (DataFrame) and MariaDB.
+  - Developed a web UI for big data visualization and presentation.
 
 # 🌍 Language
 - Native Chinese, Fluent English and Korean
